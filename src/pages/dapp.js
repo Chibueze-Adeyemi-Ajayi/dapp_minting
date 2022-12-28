@@ -10,6 +10,7 @@ const Dapp = () => {
             <Section1 />
             {/* pay out section */}
             <Payouts />
+            {/* footer section */}
             <Footer />
         </section>
     );
