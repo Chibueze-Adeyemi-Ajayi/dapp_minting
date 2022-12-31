@@ -1,6 +1,6 @@
 const Balance = () => {
     return (
-        <section className="w-full px-24 pt-24 h-fit grid grid-cols-2 gap-4">
+        <section className="w-full p-6 md:px-24 pt-24 h-fit grid md:grid-cols-2 gap-4">
             <div className="w-full h-fit p-6 bg-white/75 rounded-md flex flex-col space-y-4">
                 <h1 className="text-xl grid grid-cols-2 text-black font-semibold">
                     <font>Balance</font>

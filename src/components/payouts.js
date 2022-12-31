@@ -10,7 +10,7 @@ const Payout = () => {
 
 const Payouts = () => {
     return (
-        <div className="p-24">
+        <div className="md:p-24 p-6">
             <section className="w-full h-fit flex flex-col space-y-1 bg-white/75 rounded-md p-3">
                 <div className="w-full border-b-2 pb-2 border-black/80 font-semibold items-center h-fit grid grid-cols-3">
                     <font className="w-full mx-auto text-center h-fit">Payout Date, UTC</font>

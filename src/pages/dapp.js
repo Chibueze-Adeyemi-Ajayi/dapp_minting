@@ -5,7 +5,7 @@ import Payouts from "../components/payouts";
 
 const Dapp = () => {
     return (
-        <section className="pt-28 space-y-4 w-full h-full overflow-y-auto">
+        <section className="pt-28 space-y-4 w-full h-full overflow-x-hidden overflow-y-auto">
             <Section1 />
             <Payouts />
             <Footer />
