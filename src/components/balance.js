@@ -1,4 +1,4 @@
-// displaying wallet balance
+// displaying wallet balance 
 
 const Balance = () => {
     return (
