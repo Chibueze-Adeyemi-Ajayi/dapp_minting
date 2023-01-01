@@ -1,5 +1,7 @@
 import WalletConnect from "./wallet-connect";
 
+// application headers
+
 const Header = (props) => {
     return (
        <nav id="nav-bar" className="w-full p-3 md:p-6 grid grid-cols-4 fixed top-0 left-0 h-24">
