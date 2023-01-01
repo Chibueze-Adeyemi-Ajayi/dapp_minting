@@ -1,3 +1,5 @@
+// displaying application payouts
+
 const Payout = () => {
     return (
         <div className="w-full border-b-1 border-black/30 font-light     items-center h-fit grid grid-cols-3">
