@@ -1,3 +1,5 @@
+// displaying wallet balance
+
 const Balance = () => {
     return (
         <section className="w-full p-6 md:px-24 pt-24 h-fit grid md:grid-cols-2 gap-4">
