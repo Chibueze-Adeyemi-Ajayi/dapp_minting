@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import Index from './pages';
 
-// REACT based componeent 
+// REACT based  
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
